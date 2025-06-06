@@ -2,6 +2,7 @@
 vowels = ['a', 'e', 'i', 'o', 'u']
 vowel_count = 0
 x = 0
+
 word = input("Enter a word: ").lower()
 letter_count = len(word)
 
